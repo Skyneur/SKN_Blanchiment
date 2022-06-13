@@ -1,7 +1,7 @@
 # SKN DEVELOPPEMENT
 _(Blanchiment d'argent by Skyneur#0001)_
 
-[![forthebadge](https://www.freepnglogos.com/uploads/discord-logo-png/discord-emoji-recurring-discord-perks-gaming-17.png)](https://discord.gg/CAC8YhakRv)
+[![forthebadge](https://discord-france.fr/assets/img/pics/2020/08/1_7YuxXLpRNzhvWSWnQGuMTg.png)](https://discord.gg/CAC8YhakRv)
 
 Un simple point de blanchiment avec un menu simple et efficace (0.00ms de consomation)
 
