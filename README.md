@@ -31,20 +31,16 @@ ensure SKN_Blanchiment
 * [Visual Studio Code](https://code.visualstudio.com) - Editeur de texte
 * [FiveM Lua](https://docs.fivem.net/docs/scripting-manual/runtimes/lua/) - Pour apprendre le Lua
 
-## Contributing
-
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
-
 ## Versions
 
-**Dernière version stable :** 1.0.1
-**Dernière version :** 1.0.1
-**Première version :** 1.0
+* **Dernière version stable :** 1.0.1
+* **Dernière version :** 1.0.1
+* **Première version :** 1.0
 
 
 ## Auteurs
 
-* **Skyneur** _->_ [@outout14](https://github.com/Skyneur)
+* **Skyneur** _->_ [@Skyneur](https://github.com/Skyneur)
 
 ## License
 
