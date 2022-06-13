@@ -7,7 +7,7 @@ Un simple point de blanchiment avec un menu simple et efficace (0.00ms de consom
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Etre sur mon discord -> https://discord.gg/CAC8YhakRv
 
 ### Pré-requis
 
